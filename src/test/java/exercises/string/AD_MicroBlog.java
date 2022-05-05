@@ -1,6 +1,6 @@
 package exercises.string;
 
-public class D_MicroBlog {
+public class AD_MicroBlog {
     /*
     * The task is to truncate input strings to 5 characters.
     *

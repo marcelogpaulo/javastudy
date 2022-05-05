@@ -1,6 +1,6 @@
 package exercises.string;
 
-public class E_CarAssemble_NUMBERS {
+public class BA_CarAssemble_NUMBERS {
 
     /*Instructions
     In this exercise you'll be writing code to analyze the production of an assembly line in a car factory. The assembly line's speed can range from 0 (off) to 10 (maximum).

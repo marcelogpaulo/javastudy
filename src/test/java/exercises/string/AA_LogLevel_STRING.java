@@ -2,7 +2,7 @@ package exercises.string;
 
 import static java.lang.String.format;
 
-public class A_LogLevel {
+public class AA_LogLevel_STRING {
 
     /*
     * 1. Get message from a log line
