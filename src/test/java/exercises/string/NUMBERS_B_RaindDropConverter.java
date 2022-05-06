@@ -1,6 +1,8 @@
 package exercises.string;
 
-public class BB_RaindDropConverter_NUMBERS {
+import org.junit.jupiter.api.Test;
+
+public class NUMBERS_B_RaindDropConverter {
     /*Instructions
     Your task is to convert a number into a string that contains raindrop sounds corresponding to certain potential factors.
     A factor is a number that evenly divides into another number, leaving no remainder.
@@ -45,4 +47,17 @@ public class BB_RaindDropConverter_NUMBERS {
 //        if (stringBuilder.toString().isEmpty() ) {stringBuilder.append(number);
 //        return stringBuilder.toString();
     }
+
+    @Test
+    public void teste() {
+        double batteryCalc = 100.0 / 20.0;
+        double distanceCalc = 16.0 / 3.0;
+
+        if (batteryCalc >= distanceCalc) {
+            System.out.println("é igual mas não deveria");
+            System.out.println("Valor de batteryCalc: " + batteryCalc + "\n" + "Valor de distanceCalc: " + distanceCalc);
+        }
+        else System.out.println("Valor de batteryCalc: " + batteryCalc + "\n" + "Valor de distanceCalc: " + distanceCalc);
+    }
+
 }

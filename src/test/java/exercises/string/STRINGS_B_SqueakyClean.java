@@ -1,6 +1,6 @@
 package exercises.string;
 
-public class AB_SqueakyClean_STRING {
+public class STRINGS_B_SqueakyClean {
 //    TASK 1: Replace any spaces encountered with underscores
 //    TASK 2: Replace control characters ("\0") with the upper case string "CTRL"
 //    TASK 3: Convert kebab-case to camelCase
