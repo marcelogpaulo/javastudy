@@ -5,26 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fc97e10-2453-4b59-8405-3f0622af8537" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/string/CLASSES_A_ElonsToyCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/string/CONSTRUCTORS_A_NeedForSpeed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/string/CONSTRUCTORS_B_Darts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/javastudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/javastudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/string/CONSTRUCTORS_C_BankAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercises/string/AA_LogLevel_STRING.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercises/string/STRINGS_A_LogLevel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercises/string/AB_SqueakyClean_STRING.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercises/string/STRINGS_B_SqueakyClean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercises/string/AC_ReverseString_STRING.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercises/string/STRINGS_C_ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercises/string/AD_MicroBlog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercises/string/STRINGS_D_MicroBlog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercises/string/BA_CarAssemble_NUMBERS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercises/string/NUMBERS_A_CarAssemble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercises/string/BB_RaindDropConverter_NUMBERS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercises/string/NUMBERS_B_RaindDropConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exercises/string/CLASSES_A_ElonsToyCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercises/string/CLASSES_A_ElonsToyCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exercises/string/CONDITIONALS_IFS_A_Bob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercises/string/CONDITIONALS_IFS_A_Bob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exercises/string/CONSTRUCTORS_A_NeedForSpeed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercises/string/CONSTRUCTORS_A_NeedForSpeed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exercises/string/CONSTRUCTORS_B_Darts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercises/string/CONSTRUCTORS_B_Darts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
